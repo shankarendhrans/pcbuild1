@@ -142,7 +142,8 @@ p{
     cursor: pointer;
 }
 body{
-    background-color:aqua;
+   background-color: navy;
+    color: white;
 }
 .two{
     padding: 20px;
@@ -185,44 +186,61 @@ body{
     padding: 20px;
     display: block;
     margin: 0px;
+     color: white;
 }
 .purchase2-sub{
     padding: 20px;
     display: block;
     margin: 0px;
+     color: white;
 }
 .purchase3-sub{
     padding: 20px;
     display: block;
     margin: 0px;
+     color: white;
 }
 .purchase4-sub{
     padding: 20px;
     display: block;
     margin: 0px;
+     color: white;
 }
 .purchase5-sub{
     padding: 20px;
     display: block;
     margin: 0px;
+     color: white;
 }
 .purchase6-sub{
     padding: 20px;
     display: block;
     margin: 0px;
+     color: white;
 }
 .purchase7-sub{
     padding: 20px;
     display: block;
     margin: 0px;
+     color: white;
 }
 .purchase8-sub{
     padding: 20px;
     display: block;
     margin: 0px;
+     color: white;
 }
 .purchase9-sub{
     padding: 20px;
     display: block;
     margin: 0px;
+     color: white;
+
+}
+.color:hover{
+    background-color: white ;
+    color: gray;
+}
+.purchase-sub:hover{
+    color: black;
 }
